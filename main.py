@@ -1,5 +1,5 @@
 import json
-from quiz.question import Question
+from quiz.questions import Question
 from quiz.quiz import Quiz
 
 # Load questions from the JSON file
