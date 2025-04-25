@@ -18,5 +18,36 @@
         "text": "What is the square root of 144?",
         "options": ["A. 11", "B. 13", "C. 12", "D. 14"],
         "correct_answer": "C"
+    },
+    {
+        "text": "What is the solution to the equation x + 5 = 10?",
+        "options": ["A. 3", "B. 5", "C. 10", "D. 15"],
+        "correct_answer": "B"
+    },
+    {
+        "text": "What is the value of the determinant of a 2x2 matrix: [[1, 2], [3, 4]]?",
+        "options": ["A. -2", "B. 2", "C. 4", "D. -4"],
+        "correct_answer": "A"
+    },
+    {
+        "text": "What is the derivative of sin(x)?",
+        "options": ["A. cos(x)", "B. -cos(x)", "C. tan(x)", "D. -sin(x)"],
+        "correct_answer": "A"
+    },
+    {
+        "text": "What is the integral of 1/x?",
+        "options": ["A. ln(x)", "B. x²", "C. e^x", "D. x"],
+        "correct_answer": "A"
+    },
+    {
+        "text": "What is the value of the natural logarithm of e?",
+        "options": ["A. 0", "B. 1", "C. e", "D. 2"],
+        "correct_answer": "B"
+    },
+    {
+        "text": "What is the value of the sum of the first 10 natural numbers?",
+        "options": ["A. 45", "B. 50", "C. 55", "D. 60"],
+        "correct_answer": "C"
     }
 ]
+
