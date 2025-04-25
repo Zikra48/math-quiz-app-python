@@ -1,16 +1,16 @@
 [
     {
-        "text": "What is the derivative of x²?",
-        "options": ["A. x", "B. 2x", "C. x²", "D. 1"],
+        "text": "What is the derivative of x^2?",
+        "options": ["A. x", "B. 2x", "C. x^2", "D. 1"],
         "correct_answer": "B"
     },
     {
         "text": "What is the integral of 2x?",
-        "options": ["A. x²", "B. 2x²", "C. x", "D. 1"],
+        "options": ["A. x^2", "B. 2x^2", "C. x", "D. 1"],
         "correct_answer": "A"
     },
     {
-        "text": "What is the value of π (approximately)?",
+        "text": "What is the value of pi (approximately)?",
         "options": ["A. 2.14", "B. 3.14", "C. 3.41", "D. 2.71"],
         "correct_answer": "B"
     },
@@ -36,7 +36,7 @@
     },
     {
         "text": "What is the integral of 1/x?",
-        "options": ["A. ln(x)", "B. x²", "C. e^x", "D. x"],
+        "options": ["A. ln(x)", "B. x^2", "C. e^x", "D. x"],
         "correct_answer": "A"
     },
     {
@@ -50,4 +50,3 @@
         "correct_answer": "C"
     }
 ]
-
